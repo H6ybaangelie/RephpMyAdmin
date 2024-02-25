@@ -1,5 +1,4 @@
 Desainlah Database untuk menyimpan data buku tamu.
-
 Attribute : Kolom
 Entitas : tabel
 
