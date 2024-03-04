@@ -12,6 +12,7 @@ Langkah 3 (Menentukan Relationship (Hubungan) diantara entitas)
 ![Screenshot 2024-03-04 221550](https://github.com/H6ybaangelie/RephpMyAdmin/assets/160241734/19c1a1f0-3170-4feb-9911-67d1831d75cd)
 
 Langkah 4 (Menggambar E-R Diagram)
-![Screenshot 2024-03-04 223116](https://github.com/H6ybaangelie/RephpMyAdmin/assets/160241734/798f79cf-52d1-48e3-84af-2c69677b5078)
+![Screenshot 2024-03-04 223719](https://github.com/H6ybaangelie/RephpMyAdmin/assets/160241734/ced1a1b1-2276-4d00-83c9-64949b9b92df)
+
 
 
