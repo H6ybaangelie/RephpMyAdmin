@@ -1,1 +1,2 @@
-Praktikum Basis Data Pertemuan 1
+Praktikum Basis Data Semester 2
+
